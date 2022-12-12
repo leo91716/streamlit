@@ -1,0 +1,14 @@
+[theme]
+primaryColor="#F63366"
+backgroundColor="#333333"
+secondaryBackgroundColor="#606099"
+textColor="#FFFFFF"
+font="sans serif"
+
+[global]
+showWarningOnDirectExecution = false
+developmentMode = false
+dataFrameSerialization = "legacy"
+
+[server]
+port = 8501
